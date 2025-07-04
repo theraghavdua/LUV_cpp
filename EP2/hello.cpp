@@ -31,3 +31,10 @@ int main()
     cout<<(int) 'c' ;// typecasting c into intefer to print its ascii value
     return 0;
 }
+
+
+//practice questions to be done, not done yet
+// Practice questions :
+// https://www.hackerrank.com/challenges...
+// https://www.hackerrank.com/challenges... ( Ignore scanf printf given in the question, use cin cout)
+// https://www.hackerrank.com/challenges...
