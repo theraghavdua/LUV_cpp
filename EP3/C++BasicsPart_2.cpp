@@ -22,5 +22,8 @@ double n = k*l;
 // double prints in scientific notation to print in normal form we use fixed 
 //setprecision to avoid decimals or specify number of decimals in double or float
 cout<< fixed << setprecision(0) <<n <<endl;
+//double can store a very big number but its precision is poor so we don't use it
 
 }
+
+//https://www.youtube.com/watch?v=AxB78suyqr8&list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-&index=6
